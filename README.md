@@ -1,6 +1,8 @@
 # Energy-Feedback-Based-3Phase-Converter
 # 三相变流器能量回馈测试装置
 
+FinalSolution_2025ElectricalComp.slx为最后更新版本
+
 基于 MATLAB2025b 的三相变流器仿真项目，支持电阻负载测试和能量回馈测试。模型通过三相逆变器产生交流电压，并在回馈模式下将交流输出经整流器和隔离式单管正激变换器送回同一直流母线，使外部直流电源主要补充系统损耗。
 
 
